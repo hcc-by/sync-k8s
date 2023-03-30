@@ -2,7 +2,7 @@
 
 
 hub="registry.cn-hangzhou.aliyuncs.com"
-repo="$hub/kainstall"
+repo="$hub/hcc-k8s"
 
 
 if [ -f sync.yaml ]; then

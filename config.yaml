@@ -1,6 +1,6 @@
 last: 5
 images:
-  k8s.gcr.io:
+  registry.k8s.io:
     - etcd
     - pause
     - kube-proxy

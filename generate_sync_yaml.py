@@ -73,7 +73,7 @@ def get_repo_aliyun_tags(image):
     return tags
 
 
-def get_repo_gcr_tags(image, limit=5, host="k8s.gcr.io"):
+def get_repo_gcr_tags(image, limit=5, host="registry.k8s.io"):
     """
     获取 gcr.io repo 最新的 tag
     :param host:
